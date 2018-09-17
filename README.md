@@ -2,6 +2,9 @@
 手势密码解锁View
 
 
+![image](https://github.com/xiesuichao/GestureUnlockView/raw/master/image/1.png)
+![image](https://github.com/xiesuichao/GestureUnlockView/raw/master/image/2.png)
+
 
         //手势绘制监听
         gestureDrawView.setOnGestureDrawListener(new GestureDrawView.OnGestureDrawListener() {
